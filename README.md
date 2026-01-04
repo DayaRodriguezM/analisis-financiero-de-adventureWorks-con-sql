@@ -31,7 +31,7 @@ Responder a las siguientes preguntas de negocio:
 - **Reino Unido:** ROI 22.05% - Oportunidad de mejora
 
 ### Insights clave del framework C-F-I
-  **Archivo completo:** [Ver análisis detallado](results/exports/analisis_financiero_adventureworks.xlsx)
+  **Archivo completo:** [Ver análisis detallado](resultados/exportaciones/analisis_financiero_adventureworks.xlsx)
 
 ## Estructura del repositorio
 - `/sql/queries` → consultas SQL del análisis
