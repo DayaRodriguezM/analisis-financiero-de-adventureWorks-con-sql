@@ -1,6 +1,6 @@
 -- =====================================================
 -- ANÁLISIS FINANCIERO DE ADVENTUREWORKS
--- Autor: Daya Rodríguez M
+-- Autor: Dayana Rodríguez Méndez
 -- Fecha: 04-01-2026
 -- Descripción: Análisis completo de ventas, productos y rendimiento
 -- Base de datos: AdventureWorks
